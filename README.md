@@ -7,6 +7,6 @@ To change the firmware in your synth just connect it to the computer with a USB 
 
 Then, press BOOT, without releasing it press RESET. Release RESET, release BOOT.
 
-A window will open in your computer. Just drag the firmware that you want to install into that window and you are ready to play it.
+A window will open in your computer. Just drag the firmware file .uf2 into that window and you are ready to play it.
 
 
